@@ -1,0 +1,1 @@
+# NewsMonkey_classbasedpurely

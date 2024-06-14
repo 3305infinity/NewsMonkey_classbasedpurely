@@ -1,0 +1,230 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "7NEWS",
+            "title": "Two women dead after being swept off rocks at Kurnell in Sydney - 7NEWS",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vN25ld3MuY29tLmF1L25ld3MvdHdvLXdvbWVuLWRlYWQtYWZ0ZXItYmVpbmctc3dlcHQtb2ZmLXJvY2tzLWF0LWt1cm5lbGwtaW4tc3lkbmV5LS1jLTE0OTc1Mzc30gFpaHR0cHM6Ly83bmV3cy5jb20uYXUvbmV3cy90d28td29tZW4tZGVhZC1hZnRlci1iZWluZy1zd2VwdC1vZmYtcm9ja3MtYXQta3VybmVsbC1pbi1zeWRuZXktLWMtMTQ5NzUzNzcuYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-10T14:11:09+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": null,
+            "title": "19 Tweets By Women This Week That Are Certified Fresh And Certified Hilarious",
+            "description": null,
+            "url": "https://www.buzzfeed.com/shelbyheinrich/funniest-tweets-by-women-june-6-2024?origin=spl",
+            "urlToImage": null,
+            "publishedAt": "2024-06-10T14:07:09.327565Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ahmed Kingimi",
+            "title": "Nigeria gunmen kill 50 in raid on northwest village, residents say",
+            "description": "At least 50 people were killed and an unspecified number kidnapped, including women and children, when gunmen attacked the village of Yargoje in northwest Nigeria at the weekend, residents said on Monday.",
+            "url": "https://www.reuters.com/world/africa/nigeria-gunmen-kill-50-raid-northwest-village-residents-say-2024-06-10/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/FDVVHTPVWJDZ5JBUNE6YZPP6WE.png?auth=99e5784f8fa068f122a3addb257720bcb5efbe62fcaf972f0848ada96ce2466a&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-06-10T11:26:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Emily Jane Smith",
+            "title": "Don't know much about the clitoris? The International Cliteratti will help",
+            "description": "Largely overlooked by medical science for centuries, these women set out to advance the knowledge of the clitoris.",
+            "url": "https://www.abc.net.au/news/2024-06-09/female-scientists-helping-people-discover-the-clitoris/103951640",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2a537eaf2d65500a40d9d65d3f98fad9?impolicy=wcms_watermark_news&cropH=722&cropW=1283&xPos=10&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-06-08T20:09:09Z",
+            "content": "Anita knows she has an uncommon profession. She regularly visits sex shops, talks to sex workers words like vulva, erection and orgasm are all part of a productive day on the job.\r\nWorking as an occu… [+5823 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Alexander Bolton",
+            "title": "Race to replace McConnell heats up over response to Democratic ‘show’ votes",
+            "description": "The race to become next Senate Republican leader is heating up as GOP senators are divided over how to counter Senate Majority Leader Chuck Schumer’s (D-N.Y.) messaging offensive on women’s reproductive rights, a top issue in the 2024 election. The debate ove…",
+            "url": "https://thehill.com/homenews/senate/4708924-gop-leadership-race-mcconnell-show-votes/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/06/thunejohn_cornynjohn_060624gn01_w.jpg?w=1280",
+            "publishedAt": "2024-06-07T09:30:00Z",
+            "content": "Skip to content\r\nThe race to become next Senate Republican leader is heating up as GOP senators are divided over how to counter Senate Majority Leader Chuck Schumer’s (D-N.Y.) messaging offensive on … [+8315 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Iowa standout Caitlin Clark declares for 2024 WNBA Draft",
+            "description": "Iowa star Caitlin Clark, who passed Lynette Woodard for the major-college women's basketball scoring mark Wednesday night, announced that she has declared for the 2024 WNBA Draft.",
+            "url": "http://www.foxsports.com/stories/womens-college-basketball/iowa-standout-caitlin-clark-declares-for-2024-wnba-draft",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/CaitlinDraft.jpg?ve=1&tl=1",
+            "publishedAt": "2024-02-29T21:49:01Z",
+            "content": "Iowa star Caitlin Clark, the all-time leading scorer in major-women's college basketball history, has declared for the 2024 WNBA Draft, she announced in a social media post Thursday.\r\nClark is a seni… [+671 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Sandra O Connell",
+            "title": "New pay transparency regulations could help women negotiate better salaries",
+            "description": "The EU’s new pay transparency directive won’t close the gender pay gap by itself. But it will help.\r\n\r\nAfter all, if you want to close the gender wage gap you first have to have ...",
+            "url": "http://thenextweb.com/news/new-pay-transparency-regulations-could-help-women-negotiate-better-salaries",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FAdd-a-heading-2-2.jpg&signature=a36f59f5a303e5a3a72bb0f4800c9e8d",
+            "publishedAt": "2023-06-21T07:49:33Z",
+            "content": "The EUs new pay transparency directive wont close the gender pay gap by itself. But it will help.\r\nAfter all, if you want to close the gender wage gap you first have to have data. Under the new direc… [+5348 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Molly Hayes, Elizabeth Renzetti, Tavia Grant",
+            "title": "Many women who suffer from intimate partner violence don’t trust the police. Why are they the default response?",
+            "description": "Fearing discrimination, revictimization or arrests that do more harm than good, women in Canada often stay silent about their abuse. Other jurisdictions are trying to remove police from the equation",
+            "url": "https://www.theglobeandmail.com/canada/article-intimate-partner-violence-police-response/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/h3D0ZHZzlxFB18W4eUcmyacIGmk=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/X4AS2XJHEVGLPICTE2LTJYPIIM.JPG",
+            "publishedAt": "2022-06-14T11:00:00Z",
+            "content": "Several times, Sue Caribou of Winnipeg would offer her couch to cousin Marie Morin when she needed a safe place away from her abusive boyfriend. He killed Ms. Morin two years ago and pleaded guilty t… [+11961 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Carter Sherman",
+            "title": "Trump's FDA Won't Let Women Get Abortion Pills Remotely In a Pandemic. So The ACLU Is Suing.",
+            "description": "Pregnant people have make an in-person visit to pick up the pill — even if they've already seen a provider about getting an abortion.",
+            "url": "https://www.vice.com/en_us/article/935yq7/trumps-fda-wont-let-women-get-abortion-pills-remotely-in-a-pandemic-so-the-aclu-is-suing",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5eceae1504ee25009b133490/lede/1590603286527-AbortionPills.jpeg?crop=1xw:0.8425xh;0xw,0.1425xh&resize=1200:*",
+            "publishedAt": "2020-05-27T18:43:49Z",
+            "content": "As the coronavirus pandemic ground almost every U.S. industry to a standstill, the Trump administration urged healthcare professionals to use telemedicine to see patients remotely and stem the spread… [+4029 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Rachel Kraus",
+            "title": "Trump and Biden court older women demographic with Facebook ads",
+            "description": "Combined, they have spent millions on targeted Facebook ads.",
+            "url": "https://mashable.com/article/biden-trump-facebook-ads-targeting-women/",
+            "urlToImage": "https://mondrian.mashable.com/2019%252F05%252F28%252Fd2%252Fb4bf8a8b0277463fa17a55c2e0828213.6dd82.png%252F1200x630.png?signature=Xs-B53T_FOeCR6RWJWvAZdt7sfI=",
+            "publishedAt": "2019-05-28T21:52:08Z",
+            "content": "Who do the ladies love the most? Trump and Biden are hoping it's them.\r\nDonald Trump's re-election campaign has been pouring money into Facebook ads, particularly those targeting older women, accordi… [+3467 chars]"
+        }
+    ],
+
+    "articless": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ahmed Kingimi",
+            "title": "Nigeria gunmen kill 50 in raid on northwest village, residents say",
+            "description": "At least 50 people were killed and an unspecified number kidnapped, including women and children, when gunmen attacked the village of Yargoje in northwest Nigeria at the weekend, residents said on Monday.",
+            "url": "https://www.reuters.com/world/africa/nigeria-gunmen-kill-50-raid-northwest-village-residents-say-2024-06-10/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/FDVVHTPVWJDZ5JBUNE6YZPP6WE.png?auth=99e5784f8fa068f122a3addb257720bcb5efbe62fcaf972f0848ada96ce2466a&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-06-10T11:26:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Emily Jane Smith",
+            "title": "Don't know much about the clitoris? The International Cliteratti will help",
+            "description": "Largely overlooked by medical science for centuries, these women set out to advance the knowledge of the clitoris.",
+            "url": "https://www.abc.net.au/news/2024-06-09/female-scientists-helping-people-discover-the-clitoris/103951640",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2a537eaf2d65500a40d9d65d3f98fad9?impolicy=wcms_watermark_news&cropH=722&cropW=1283&xPos=10&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-06-08T20:09:09Z",
+            "content": "Anita knows she has an uncommon profession. She regularly visits sex shops, talks to sex workers words like vulva, erection and orgasm are all part of a productive day on the job.\r\nWorking as an occu… [+5823 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Alexander Bolton",
+            "title": "Race to replace McConnell heats up over response to Democratic ‘show’ votes",
+            "description": "The race to become next Senate Republican leader is heating up as GOP senators are divided over how to counter Senate Majority Leader Chuck Schumer’s (D-N.Y.) messaging offensive on women’s reproductive rights, a top issue in the 2024 election. The debate ove…",
+            "url": "https://thehill.com/homenews/senate/4708924-gop-leadership-race-mcconnell-show-votes/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/06/thunejohn_cornynjohn_060624gn01_w.jpg?w=1280",
+            "publishedAt": "2024-06-07T09:30:00Z",
+            "content": "Skip to content\r\nThe race to become next Senate Republican leader is heating up as GOP senators are divided over how to counter Senate Majority Leader Chuck Schumer’s (D-N.Y.) messaging offensive on … [+8315 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Iowa standout Caitlin Clark declares for 2024 WNBA Draft",
+            "description": "Iowa star Caitlin Clark, who passed Lynette Woodard for the major-college women's basketball scoring mark Wednesday night, announced that she has declared for the 2024 WNBA Draft.",
+            "url": "http://www.foxsports.com/stories/womens-college-basketball/iowa-standout-caitlin-clark-declares-for-2024-wnba-draft",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/CaitlinDraft.jpg?ve=1&tl=1",
+            "publishedAt": "2024-02-29T21:49:01Z",
+            "content": "Iowa star Caitlin Clark, the all-time leading scorer in major-women's college basketball history, has declared for the 2024 WNBA Draft, she announced in a social media post Thursday.\r\nClark is a seni… [+671 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Sandra O Connell",
+            "title": "New pay transparency regulations could help women negotiate better salaries",
+            "description": "The EU’s new pay transparency directive won’t close the gender pay gap by itself. But it will help.\r\n\r\nAfter all, if you want to close the gender wage gap you first have to have ...",
+            "url": "http://thenextweb.com/news/new-pay-transparency-regulations-could-help-women-negotiate-better-salaries",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FAdd-a-heading-2-2.jpg&signature=a36f59f5a303e5a3a72bb0f4800c9e8d",
+            "publishedAt": "2023-06-21T07:49:33Z",
+            "content": "The EUs new pay transparency directive wont close the gender pay gap by itself. But it will help.\r\nAfter all, if you want to close the gender wage gap you first have to have data. Under the new direc… [+5348 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Molly Hayes, Elizabeth Renzetti, Tavia Grant",
+            "title": "Many women who suffer from intimate partner violence don’t trust the police. Why are they the default response?",
+            "description": "Fearing discrimination, revictimization or arrests that do more harm than good, women in Canada often stay silent about their abuse. Other jurisdictions are trying to remove police from the equation",
+            "url": "https://www.theglobeandmail.com/canada/article-intimate-partner-violence-police-response/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/h3D0ZHZzlxFB18W4eUcmyacIGmk=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/X4AS2XJHEVGLPICTE2LTJYPIIM.JPG",
+            "publishedAt": "2022-06-14T11:00:00Z",
+            "content": "Several times, Sue Caribou of Winnipeg would offer her couch to cousin Marie Morin when she needed a safe place away from her abusive boyfriend. He killed Ms. Morin two years ago and pleaded guilty t… [+11961 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Carter Sherman",
+            "title": "Trump's FDA Won't Let Women Get Abortion Pills Remotely In a Pandemic. So The ACLU Is Suing.",
+            "description": "Pregnant people have make an in-person visit to pick up the pill — even if they've already seen a provider about getting an abortion.",
+            "url": "https://www.vice.com/en_us/article/935yq7/trumps-fda-wont-let-women-get-abortion-pills-remotely-in-a-pandemic-so-the-aclu-is-suing",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5eceae1504ee25009b133490/lede/1590603286527-AbortionPills.jpeg?crop=1xw:0.8425xh;0xw,0.1425xh&resize=1200:*",
+            "publishedAt": "2020-05-27T18:43:49Z",
+            "content": "As the coronavirus pandemic ground almost every U.S. industry to a standstill, the Trump administration urged healthcare professionals to use telemedicine to see patients remotely and stem the spread… [+4029 chars]"
+        }
+    ]
+}
